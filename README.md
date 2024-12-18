@@ -3,4 +3,3 @@
 
 ![Снимок экрана 2024-12-18 105018](https://github.com/user-attachments/assets/f6f17ee7-e0af-4537-9662-cacb27c643d2)
 
-theme: THEME-NAME_config.ymljekyll-theme-NAMEtheme: jekyll-theme-minimal
