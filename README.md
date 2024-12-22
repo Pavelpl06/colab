@@ -80,3 +80,4 @@
 Результат:
 В случае успешного ВИ выбранные фотографии распечатаны.
 <p style='text-align: right;'> Your Text </p>
+ p { text-align: justify; }
