@@ -86,7 +86,6 @@
  ![Снимок экрана 2024-11-07 215121](https://github.com/user-attachments/assets/972fc04b-25b8-4684-b2c6-d46af43bd022)
  
 
-#### ***SQL***
-[Основы SQL](https://github.com/Pavelpl06/colab/commit/b597a198c54e728b039a7797213b2873e520065d)
+#### ***Итоговая работа по SQL***
 
 [Итоговая работа по SQL](https://github.com/Pavelpl06/colab/commit/e12664fd14913b8aab5cebd6b99fd27fa916837a)
