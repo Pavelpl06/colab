@@ -87,6 +87,6 @@
  
 
 #### ***SQL***
-
+[Основы SQL](https://github.com/Pavelpl06/colab/commit/b597a198c54e728b039a7797213b2873e520065d)
 
 [Итоговая работа по SQL](https://github.com/Pavelpl06/colab/commit/e12664fd14913b8aab5cebd6b99fd27fa916837a)
