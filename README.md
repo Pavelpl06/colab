@@ -89,3 +89,8 @@
 #### ***Итоговая работа по SQL***
 
 [Итоговая работа по SQL](https://github.com/Pavelpl06/colab/commit/e12664fd14913b8aab5cebd6b99fd27fa916837a)
+
+
+##### ***Прототипирование интерфейсов***
+
+[Прототипирование интерфейсов](https://www.figma.com/proto/WFhD7P91ZIphH8QGEx4Jrt/Untitled?node-id=43-81&p=f&t=XO21db9BxpriMPmY-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2)
