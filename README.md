@@ -84,7 +84,7 @@
 
 ## ***Диаграмма последовательности***
 
- ![Снимок экрана 2024-11-07 215121](https://github.com/user-attachments/assets/972fc04b-25b8-4684-b2c6-d46af43bd022)
+ [Снимок экрана 2024-11-07 215121](https://github.com/user-attachments/assets/972fc04b-25b8-4684-b2c6-d46af43bd022)
  
 
 ## ***Итоговая работа по SQL***
