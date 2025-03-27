@@ -5,7 +5,7 @@
 ![Снимок экрана 2024-12-18 105018](https://github.com/user-attachments/assets/f6f17ee7-e0af-4537-9662-cacb27c643d2)
 
 
-# Final work
+## Final work
 
 
 ***Программное обеспечение для автомата, печатающего фото из Instagram.***
