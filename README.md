@@ -102,10 +102,15 @@
 
 ## ***Оформление путевки в туристическом агенстве***
 
- [Оформление_путевки_в_турагенстве drawio](https://github.com/user-attachments/assets/c0de8189-366f-4954-a33c-a2794c4e34f3)
+ [Оформление_путевки_в_турагенстве drawio](c0de8189-366f https://github.com/user-attachments/assets/-4954-a33c-a2794c4e34f3)
 
 
 
 ## ***Спецификация Open API***
 
 [Кинотеатр "Искорка" API](https://app.swaggerhub.com/apis/pavelplotnikov548/Cinema/1.0.0)
+
+
+## ***Кейс "Мастерская по ремонту гаджетов"
+
+[Мастерская по ремонту гаджетов](https://docs.google.com/document/d/1T6xj4OWvbM55jAlaGhuqAFKMooxb3uLL5ARynhRQEP8/edit?usp=sharing)
