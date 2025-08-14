@@ -111,10 +111,14 @@
 [Кинотеатр "Искорка" API](https://app.swaggerhub.com/apis/pavelplotnikov548/Cinema/1.0.0)
 
 
-## ***Кейс "Мастерская по ремонту гаджетов"
+## ***Кейс "Мастерская по ремонту гаджетов"***
 
 [Мастерская по ремонту гаджетов](https://docs.google.com/document/d/1T6xj4OWvbM55jAlaGhuqAFKMooxb3uLL5ARynhRQEP8/edit?usp=sharing)
 
 ## ***Кейс Trip Plan***
 
 [Туристическое агентство “Trip plan”](https://docs.google.com/document/d/1_nb8iuFhESQKo_LooRAyc5rH30HYS86_ipDayT59mt0/edit?usp=sharing)
+
+[Open API Trip Plan](https://app.swaggerhub.com/apis/pavel1118/TripPlan123/1.0.0)
+
+[Спецификация к мобильному приложению "Trip Plan"](https://docs.google.com/document/d/18QfmvUZoTZE7kIl1qZe3U3nwTSRjF7wFuQfyrfXo_P8/edit?usp=sharing) 
